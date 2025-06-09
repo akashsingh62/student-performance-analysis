@@ -1,1 +1,1 @@
-# student-performance-analysis
+#This project aims to analyze student academic performance using various data analysis and visualization techniques. It helps identify key factors affecting students' performance and provides actionable insights to improve learning outcomes.
